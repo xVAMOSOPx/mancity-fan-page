@@ -1,0 +1,35 @@
+body {
+    background-color: #E4F9F5;
+}
+
+.both {
+    height: 500px;
+    width: 850px;
+}
+.kevin {
+    height: 400px;
+    width: 600px;
+}
+.foden {
+    height: 400px;
+    width: 600px;
+}
+.kevin_fanline {
+    font-size: 30px;
+    color: #11ddc2;
+}
+.foden_fanline {
+    font-size: 25px;
+    color: rgb(183, 138, 79);
+}
+.player_heading {
+    color: #11999E;
+    font-size: 40px;
+    font-family: cursive;
+}
+#heading {
+    color: #11999E;
+    font-size: 60px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
